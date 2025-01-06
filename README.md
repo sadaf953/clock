@@ -40,8 +40,4 @@ python app.py
 ## Contributing
 Feel free to open issues or submit pull requests to improve the application.
 
-## License
-[Add your license information here]
 
-## Created
-Date: 2025-01-06
